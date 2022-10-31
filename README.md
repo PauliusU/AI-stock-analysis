@@ -3,6 +3,8 @@
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/AI-stock-analysis/blob/master/AI-stock-analysis.ipynb)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/AI-stock-analysis/blob/master/LICENSE)
 
+❗Work in progress, some cell will not work❗
+
 Final practical project for Artificial Intelligence studies to solidify basics of sequential data analysis by practicing.
 
 ## Usage
