@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-yfinance = "*"
 matplotlib = "*"
+numpy = "*"
+scikit-learn = "*"
+tensorflow-gpu = "*"
+yfinance = "*"
 
 [dev-packages]
 
