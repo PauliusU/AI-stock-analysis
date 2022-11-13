@@ -47,5 +47,3 @@ pipenv install
 ```bash
 pipenv run jupyter notebook AI-stock-analysis.ipynb
 ```
-
-## Requirements
